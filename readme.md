@@ -28,6 +28,8 @@ From src/ `docker build -t grpcwasmdemo . && docker run -p 5000:5000 grpcwasmdem
 ### PWA
 Also very limited progressive web application support - if you run from VS Studio, use IIS in the case, or configure the application to run with SSL in another way.
 
+<img src="https://github.com/Henkolicious/gRPC-blazor-wasm/blob/master/assets/pwa.jpg" />
+
 ## Result
 
 <img src="https://github.com/Henkolicious/gRPC-blazor-wasm/blob/master/assets/example.jpg" />
